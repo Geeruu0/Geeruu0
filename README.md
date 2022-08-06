@@ -1,50 +1,98 @@
-# GeeruID
-Perkenalkan Sya Adi saputra umur 17 jatim malang 
-Jan Lupa Kasi Starnya Dan Follow github
+<p align="center">
+    <img src="https://telegra.ph/file/51889bfef14b78938b61b.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
+<h1 align="center">GeeruID - MD - V2</h1>
+<p align="center">
+  <a href="https://github.com/Geeruu0"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=GeeruID+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Geeru;Re-Recode+By+Jikarinka;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+</p>
 
-Script ini gratis, Jika ketahuan di jual, Script ini akan langsung di hapus.
-Jangan lupa untuk mengikuti github ku
-* My WhatsApp [`Click Here`](https://wa.me/6285707042602?text=Assalamualaikum)
-* My Instagram [`Click Here`](https://instagram.com/adix.yr)
+<p align="center">
+ <a href="#"><img title="GeeruID" src="https://img.shields.io/badge/GeeruuID-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/Geeruu0"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Geeru-blue.svg?style=for-the-badge&logo=github"></a>
+</p>
+---------
+## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
+  <a href="https://wa.me/6285707042602">
+    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@adiosbyy">
+    <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/adix.yr/">
+    <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto: ranhai09@gmail.com@gmail.com">
+    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+---------
 
-## Heroku Buildpack
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Geeruu0/v2)
+## ```Whatsapp``` <a href="https://wa.me/6285707042602"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285891056005) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285707042602) 
+[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GNSL2xlVt45JGR1awPM7NO) 
+---------
+
+#### KELEBIHAN 📍
+| Kelebihan | Check |
+|--------|--------|
+| **Fast Respon** |[✔️](https://github.com/Geeruu0) |
+| **No Internet** |[✔️](https://github.com/Geeruu0) |
+| **Simple** |[✔️](https://github.com/Geeruu0) |
+| **Button template** |[✔️](https://github.com/Geeruu0) |
+| **Multi Device** |[✔️](https://github.com/Geeruu0) |
+---------
+#### FITUR 📍
+| Fitur | Check |
+|--------|--------|
+| **Downloader** |[✔️](https://github.com/Geeruu0) |
+| **Internet** |[✔️](https://github.com/Geeruu0) |
+| **Game Rpg** |[✔️](https://github.com/Geeruu0) |
+| **Nsfw** |[✔️](https://github.com/Geeruu0) |
+| **Sticker** |[✔️](https://github.com/Geeruu0) |
+| **Game** |[✔️](https://github.com/Geeruu0) |
+| **Kerang Ajaib** |[✔️](https://github.com/Geeruu0) |
+| **Quotes** |[✔️](https://github.com/Geeruu0) |
+| **Anime** |[✔️](https://github.com/Geeruu0) |
+| **Premium** |[✔️](https://github.com/Geeruu0) |
+| **Tools** |[✔️](https://github.com/Geeruu0) |
+| **Exec** |[✔️](https://github.com/Geeruu0) |
+| **React** |[✔️](https://github.com/Geeruu0) |
+---------
+
+## ```Heroku Buildpack```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Geeruu0/Geeru01)
 
 | BuildPack | LINK |
 |--------|--------|
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
 | **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
----------
-
-## HOW TO CONNECT TO MONGODB WHEN RUN IN HEROKU
-
-* Create account and database in mongodb atlas [`watch here`](https://youtu.be/rPqRyYJmx2g)
-* when you already have a database, you just need to take mongourl
-* Put mongourl in Procfile `web: node . --db 'mongourl'`
-* Example `web: node . -- db 'Your Mongo URI'`
-
----------
-
-## FOR TERMUX/UBUNTU/SSH USER
-
+## TERMUX USER
 ```bash
-apt update && apt upgrade
-apt install git -y
-apt install nodejs -y
-apt install ffmpeg -y
-apt install imagemagick -y
-git clone https://github.com/Geeruu0/v2
-cd v2
-pkg install yarn
-yarn
+$ pkg upgrade && pkg update
+$ pkg install git -y
+$ pkg install nodejs -y
+$ pkg install ffmpeg -y
+$ pkg install imagemagick -y
+$ git clone https://github.com/Geeruu0/Geeru01/
+$ cd Geeru01
+$ npm i 
+```
+If error try using yarn instead of npm, see [here](https://github.com/Geeruu0/Geeru01#if-npm-install-failed--try--using-yarn-instead-of-npm)
+```bash
+$ node .
+```
 
+#### If npm install failed, try using yarn instead of npm
+```bash
+$ pkg install yarn -y
+$ yarn install
 ```
 ---------
 
-## INSTALL ON TERMUX WITH UBUNTU
-
-[ INSTALLING UBUNTU ]
+## TERMUX WITH UBUNTU
 
 ```bash
 apt update && apt full-upgrade
@@ -65,21 +113,21 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & GeeruuMD ]
+[ INSTALLING NODEJS & KANNABOT-MD]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Geeruu0/v2
-cd v2
+git clone https://github.com/Geeruu0/Geeru01/
+cd Geeru01
 npm install
 npm update
 ```
 
 ---------
 
-## FOR WINDOWS/VPS/RDP USER
+## FOR WINDOWS/VPS/RDP USER 💻
 
 * Download And Install Git [`Click Here`](https://git-scm.com/downloads)
 * Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
@@ -87,35 +135,15 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Geeruu0/v2
-cd v2
+git clone https://github.com/Geeruu0/Geeru01/
+cd Geeru01
 npm install
 npm update
 ```
 
 ---------
 
-## FOR OKTETO
-
-* Okteto [`Click Here`](https://okteto.com)
-
-```bash
-Login with your github
-Click Launch Dev Environment
-Choose your repo
-```
-
-
----------
-
-## PANEL/RDP/VPS
-
-* Amiruldev [`Click Here`](https://www.amiruldev.my.id)
-
-
----------
-
-## Run
+## Run 🏃
 
 ```bash
 node .
@@ -123,104 +151,95 @@ node .
 
 ---------
 
-## Arguments `node . [--options] [<session name>]`
+## ```Arguments node . [--options] [<session name>]```
 
-### `--session <file name>`
+## `--self`
+* Activate self mode (Ignores other)
 
-Use another session with another name, default is ```session.data.json```
+## `--pconly`
+* If that chat not from private bot, bot will ignore
 
-### `--prefix <prefixes>`
+## `--gconly`
+* If that chat not from group, bot will ignore
 
+## `--swonly`
+* If that chat not from status, bot will ignore
+
+## `--prefix <prefixes>`
 * `prefixes` are seperated by each character
 Set prefix
 
-### `--server`
+## `--server`
+* Used for [heroku](https://heroku.com/) or scan through website
 
-Used for [heroku](https://heroku.com/) or scan through website
+## `--restrict`
+* Enables restricted plugins (which can lead your number to be **banned** if used too often)
+* Group Administration `add, kick`
 
-### `--db <json-server-url>`
+## `--img`
+* Enable image inspector through terminal
 
-#### GET
+## `--autoread`
+* If enabled, all incoming messages will be marked as read
 
-```http
-GET /
-Accept: application/json
-```
+## `--nyimak`
+* No bot, just print received messages and add users to database
 
-#### POST
-
-```http
-POST /
-Content-Type: application/json
-
-{
- data: {}
-}
-```
-
-### `--big-qr`
-
-If small qr unicode doesn't support
-
-### `--img`
-
-Enable image inspector through terminal
-
-### `--test`
-
-**Development** Testing Mode
-
-### `--trace`
-
-```js
-conn.logger.level = 'trace'
-```
-
-### `--debug`
-
-```js
-conn.logger.level = 'debug'
-```
-
-## Settings
-
-Now set using switch [enable.js](https://github.com/Aiinne/Aine-MD/blob/master/plugins/enable.js), among others are
-
-```js
-autoread: false, // If true all chats are automatically read
-nyimak: false, // No bot, just print received messages and add users to database
-restrict: false, // Enables restricted plugins (which can lead your number to be banned if used too often)
-self: false, // Activate self mode (Ignores other)
-pconly: false, // If that chat not from private bot, bot will ignore
-gconly: false, // If that chat not from group, bot will ignore
-```
+## `--test`
+* **Development** Testing Mode
 
 ---------
 
-#### Thank's To
+## ```How To Customise Message Display```
+```js
+// Syntax
+conn.sendButton(
+      jid, // jid of the user to send the message to
+      text, // text to send
+      foooter, // footer to send
+      buffer, // buffer to send (optional), if you want to send button image, location, etc
+      buttons, // buttons to send, example [['text1', 'id1'], ['text2', 'id2']]
+      quoted, // quoted message to send (optional)
+      options // options to send, example { asLocation: true }
+)
 
-Allah SWT,
+// example 
+conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', null, [
+      ['Hello', 'hello'], ['Bye', 'bye']
+])
+// example button location
+conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/BochilGaming', 
+      [['Hello', 'hello'], ['Bye', 'bye']], 
+      null, { asLocation: true }
+)
+```
+---------
 
-Orang Tua yang selalu mensupport,
+### 📮 S&K
+1. Jangan diperjual belikan Script ini
+2. Sebelum pakai jangan lupa kasih star
+3. Follow Github !
+4. Jangan salah gunakan script ini!
 
-My gf yang selalu nyemangatin,
-
-Semua yang selalu mendukung
-
-#### Special Thank's To
-[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
-[![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
-[![ariffb25](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25)
-
-
-## Contributor
-
-[![Darrma23](https://github.com/Darrma23.png?size=100)](https://github.com/Darrma23)
-[![aniq12](https://github.com/aniq12.png?size=100)](https://github.com/aniq12)
-[![amiruldev20](https://github.com/amiruldev20.png?size=100)](https://github.com/amiruldev20)
-[![Chacax](https://github.com/Chacax.png?size=100)](https://github.com/Chacax)
-[![rahmad13](https://github.com/rahmad13.png?size=100)](https://github.com/rahmad13)
+---------
 
 
-Best Thanks. Geeruu
+## ```Thanks to ✨```
+* [`Allah SWT`](https://github.com/Geeruu0)
+* [`My parents`](https://github.com/Geeruu0)
+* [`All Friends`](https://github.com/Geeruu0)
+* [`All Contributors`](https://github.com/Geeruu0)
+* [`All Creator Bot`](https://github.com/Geeruu0)
+* [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
+* [`Nurutomo`](https://github.com/nurutomi)
+* [`BochilGaming`](https://github.com/bochilgaming)
+* [`KannaChan`](http://github.com/kannachann)
+* [`Jikarinka`](https://github.com/Jikarinka)
+## ```Recode By 🐾```
+[![kannachann](https://github.com/Jikarinka.png?size=100)](http://github.com/kannachann)
 
+# ```Contributor 🔭```
+* [`The.Sad.Boy01`](https://github.com/Kangsad01)
+* [`AmirulDev20`](https://github.com/amiruldev20)
+* [`Rasel Comel`](https://github.com/raselcomel)
+* [`Rominaru`](https://github.com/rominaru)
